@@ -1,6 +1,6 @@
 # mitra-chat-app
 Writing Script for mitra-chat
-A Django-based system for conducting secure online exams.
+
 
 
 ## Apps
