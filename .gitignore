@@ -6,9 +6,10 @@ __pycache__/
 .Python
 env/
 venv/
+vnv/
 .env
 .venv
-
+.vnv
 # Django
 *.log
 db.sqlite3
